@@ -1,0 +1,16 @@
+trailingComma: "es5"
+semi: false
+singleQuote: false
+jsxSingleQuote: false
+tabWidth: 4
+printWidth: 110
+endOfLine: lf
+overrides:
+  - files: "*.json"
+    options:
+      tabWidth: 2
+  - files: "*.yml"
+    options:
+      tabWidth: 2
+
+

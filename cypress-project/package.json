@@ -1,0 +1,18 @@
+{
+  "name": "cypress-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@bitbucket.nortal.com:7999/~sven.liebig/cypress-boilerplate.git",
+  "author": "<sven.liebig@nortal.com>",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "@testing-library/cypress": "^8.0.1",
+    "cypress": "^8.0.0",
+    "typescript": "^4.4.2"
+  },
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  }
+}

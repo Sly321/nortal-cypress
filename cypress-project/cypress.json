@@ -1,0 +1,11 @@
+{
+  "baseUrl": "http://localhost:8080",
+  "projectId": "7s5okt",
+  "screenshotsFolder": ".testresults/screenshots",
+  "videosFolder": ".testresults/videos",
+  "retries": {
+    "runMode": 1,
+    "openMode": 0
+  },
+  "env": {}
+}

@@ -1,0 +1,8 @@
+# node
+node_modules
+
+# lockfiles
+yarn.lock
+
+# cypress
+.testresults
